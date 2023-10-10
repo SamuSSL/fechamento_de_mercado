@@ -109,8 +109,8 @@ Samuel Lemos
 
 '''
 
-anexo_dolar = r"C:\Users\Samuel\Documents\Código Py\Projetos\dolar.png"
-anexo_ibov = r"C:\Users\Samuel\Documents\Código Py\Projetos\ibovespa.png"
+anexo_dolar = r"C:\Users\Samuel\Documents\Projetos Python\Projetos\dolar.png"
+anexo_ibov = r"C:\Users\Samuel\Documents\Projetos Python\Projetos\ibovespa.png"
 
 email.Attachments.Add(anexo_dolar)
 email.Attachments.Add(anexo_ibov)
